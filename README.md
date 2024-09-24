@@ -59,7 +59,8 @@ During training, the model goes through several **epochs**, each representing a 
 
 - **Yoosha Mirza (E22CSEU0046)**: Dataset Selection, Model Creation
 - **Sarthak Chauhan (E22CSEU0056)**: Model Selection, Model Creation
-- **Siddhart Patel (E22CSEU0044)**: Model Selection, Model Creation
+- **Siddharth Patel (E22CSEU0044)**: Model Selection, Model Creation
+- **Saksham Dhiman (E22CSEU0048)**: Model Selection, Model Creation
 
 ---
 
